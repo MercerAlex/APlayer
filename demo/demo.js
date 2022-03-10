@@ -1,6 +1,6 @@
 const ap1 = new APlayer({
     element: document.getElementById('player1'),
-    mini: false,
+    mini: true,
     autoplay: false,
     lrcType: false,
     mutex: true,
